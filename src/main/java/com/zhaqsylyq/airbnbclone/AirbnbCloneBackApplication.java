@@ -1,4 +1,4 @@
-package com.zhaqsylyq.airbnb_clone_back;
+package com.zhaqsylyq.airbnbclone;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

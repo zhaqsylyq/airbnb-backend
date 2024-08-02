@@ -1,4 +1,4 @@
-package com.zhaqsylyq.airbnb_clone_back;
+package com.zhaqsylyq.airbnbclone;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
